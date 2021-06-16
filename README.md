@@ -1,4 +1,4 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=redrails&theme=dracula&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **rsulxo/rsulxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
