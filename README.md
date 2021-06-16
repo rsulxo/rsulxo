@@ -1,5 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=redrails&theme=dracula&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![rsulxo's github stats](https://github-readme-stats.vercel.app/api?username=rsulxo&include_all_commits=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/rsulxo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsulxo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **rsulxo/rsulxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
