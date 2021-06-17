@@ -12,9 +12,9 @@ My name is Rooha, I'm a UI designer and front-end web developer who's obsessed w
 - Accesibility testing using **Google Lighthouse and WAVE**.
 - Ability to design according to the Government Digital Standard (https://www.gov.uk/service-manual/design)
 
-<div align="center" >
+<div align="center">
   
-<a  href="https://github.com/SP-XD"> 
+<a  href="https://github.com/rsulxo"> 
   
 <img alt="rsulxo's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=rsulxo&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true" href="https://github.com/rsulxo" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsulxo&theme=dracula&layout=compact" href="https://github.com/rsulxo" />
