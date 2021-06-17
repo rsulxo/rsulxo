@@ -12,6 +12,7 @@ My name is Rooha, I'm a UI designer and front-end web developer who's obsessed w
 - Accesibility testing using **Google Lighthouse and WAVE**.
 - Ability to design according to the Government Digital Standard (https://www.gov.uk/service-manual/design)
 
+<hr>
 <div align="center">
   
 <a  href="https://github.com/rsulxo"> 
