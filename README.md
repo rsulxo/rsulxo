@@ -1,32 +1,30 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
-<hr>
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsulxo&theme=radical&layout=compact&no-frame=true">
-</p>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, Welcome! </h2>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=rsulxo&include_all_commits=true&show_icons=true&theme=radical&show_owner=true&no-frame=true">
-</p>
+<img align=right width=300 src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
+My name is Rooha, I'm a UI designer and front-end web developer who's obsessed with improving user experience. 
 
-<p align=center>  
-  <img align=center src="https://github-profile-trophy.vercel.app/?username=redrails&theme=dracula&row=1&no-frame=true">
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](www.linkedin.com/in/roohas)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rooha14@gmail.com)](mailto:rooha14@gmail.com)
+
+## 🖥️  What I do
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- User Interface Design tools such as, **Sketch, AdobeXD and Axure RP 8/9**.
+- Accesibility testing using **Google Lighthouse and WAVE**.
+- Ability to design according to the Government Digital Standard (https://www.gov.uk/service-manual/design)
+
+<div align="center" >
+  
+<a  href="https://github.com/SP-XD"> 
+  
+<img alt="rsulxo's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=rsulxo&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true" href="https://github.com/rsulxo" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsulxo&theme=dracula&layout=compact" href="https://github.com/rsulxo" />
+
+</a>
+
+<hr></hr>
+
+[This page is best viewed with dark mode on.]
+
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rsulxo.rsulxo)
-
-
-
-<!--
-**rsulxo/rsulxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
