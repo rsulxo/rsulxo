@@ -6,7 +6,7 @@ My name is Rooha, I'm a UI designer and front-end web developer who's obsessed w
 
 ## 🖥️  What I do
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- User Interface Design tools such as, **Sketch, AdobeXD and Axure RP 8/9**.
+- User Interface Design tools such as, **Sketch, AdobeXD, Axure RP 8/9 and Figma**.
 - Accesibility testing using **Google Lighthouse and WAVE**.
 - Ability to design according to the Government Digital Standard (https://www.gov.uk/service-manual/design)
 
