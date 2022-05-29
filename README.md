@@ -1,6 +1,4 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, Welcome! </h2>
-
-<img align=right width=300 src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 My name is Rooha, I'm a UI designer and front-end web developer who's obsessed with improving user experience. 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](www.linkedin.com/in/roohas)
