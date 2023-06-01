@@ -23,7 +23,3 @@ My name is Rooha, I'm a UI designer and front-end web developer who's obsessed w
 <hr></hr>
 
 [This page is best viewed with dark mode on.]
-
-</div>
-
-![](https://visitor-badge.glitch.me/badge?page_id=rsulxo.rsulxo)
