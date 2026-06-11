@@ -15,7 +15,6 @@ My name is Rooha, I'm an interaction designer who's obsessed with improving user
   
 <a  href="https://github.com/rsulxo"> 
   
-<img alt="rsulxo's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=rsulxo&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true" href="https://github.com/rsulxo" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsulxo&theme=dracula&layout=compact" href="https://github.com/rsulxo" />
 
 </a>
